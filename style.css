@@ -247,8 +247,8 @@ indent {
 }
 
 .box {
-    background-color: rgba(255, 255, 255, 0.103);
-    border: 5px solid rgb(9, 255, 0);
+    background-color: rgba(22, 88, 211, 0.466);
+    border: 5px solid rgba(9, 255, 0, 0.555);
 }
 
 .quote {
