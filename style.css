@@ -274,8 +274,8 @@ indent {
 }
 
 .png img {
-  width: 790px;
-  height: 550px;
+  max-width: 780px;
+  height: autopx;
 }
 
 .png2 img {
